@@ -1,0 +1,16 @@
+{
+  "name": "markdown-electron-app",
+  "version": "0.1.0",
+  "description": "Markdown notes app",
+  "main": "main.js",
+  "repository": "git@github.com:rodrigoronin/markdown-electron-app.git",
+  "author": "Rodrigo 'Ronin' Lira",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^34.3.0"
+  }
+}
